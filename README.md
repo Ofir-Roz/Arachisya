@@ -2,7 +2,7 @@
 
 A thrilling 2D action RPG adventure game built with C++ and Raylib. Navigate through a vast desert world, battle dangerous enemies, and survive as long as you can!
 
-![Game Start Screen](./screenshots/start_screen.png)
+![Game Start Screen]([./screenshots/start_screen.png](https://github.com/Ofir-Roz/Small_Games/assets/68872614/ba19ab2f-abd8-46a0-9b49-7feb1aa9065f))
 
 ## 🎮 Game Overview
 
