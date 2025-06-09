@@ -6,10 +6,10 @@ A thrilling 2D action RPG adventure game built with C++ and Raylib. Navigate thr
 
 ## 🎮 Game Overview
 
-Arachisya is a top-down action game where you control a brave knight exploring a hostile desert planet. Fight against various creatures including goblins, slimes, and mysterious intellect devourers while avoiding environmental hazards and managing your health.
+Arachisya is a top-down action game where you control a brave knight exploring a hostile desert planet. Fight against various creatures, including goblins, slimes, and mysterious intellect devourers, while avoiding environmental hazards and managing your health.
 
-![Gameplay Screenshot 1](./screenshots/gameplay_1.png)
-![Gameplay Screenshot 2](./screenshots/gameplay_2.png)
+![Desktop Screenshot 2023 10 02 - 19 56 17 44](https://github.com/Ofir-Roz/Small_Games/assets/68872614/b435ef1a-7375-4ab7-99a1-52f830643fb1)
+![Desktop Screenshot 2023 10 02 - 19 56 23 13](https://github.com/Ofir-Roz/Small_Games/assets/68872614/07230db8-4956-4a51-a8a2-4ca0bb919608)
 
 ## ✨ Features
 
@@ -114,7 +114,7 @@ Arachisya/
 
 ## 🎨 Assets
 
-The game features beautiful pixel art assets including:
+The game features beautiful pixel art assets, including:
 - Detailed character sprite sheets with idle and running animations
 - Environmental props (rocks, logs, signs)
 - Desert-themed world map
@@ -131,13 +131,13 @@ The game features beautiful pixel art assets including:
 ### Enemy AI
 - Pathfinding: Enemies move toward the player character
 - Proximity detection: Enemies stop moving when close to avoid overlap
-- Damage dealing: Continuous damage when in contact with player
+- Damage dealing: Continuous damage when in contact with the player
 - Death animations and sound effects
 
 ### World Design
 - Large scrollable map with camera following the player
 - Collision detection with environmental objects
-- Boundary checking to keep player within playable area
+- Boundary checking to keep the player within the playable area
 - Scale-appropriate rendering for all game objects
 
 ## 🎵 Audio Design
@@ -167,7 +167,7 @@ Potential improvements for future versions:
 
 ## 📄 License
 
-This project is open source. Feel free to fork, modify, and create your own versions!
+This project is open source. Feel free to fork, modify, and create your versions!
 
 ## 🙏 Acknowledgments
 
